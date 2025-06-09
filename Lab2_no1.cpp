@@ -12,7 +12,6 @@ int main()
         }else {
             cout<<"The number is positive and odd" <<endl;
         }
-        cout<< "The number is negative and even" << endl;
   } else {
        if (a % 2 == 0) {
             cout << "The number is negative and even" << endl;
